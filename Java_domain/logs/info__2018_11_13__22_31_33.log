@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+[13/11/2018 22:31:33] >> Logger created
+[13/11/2018 22:31:34] >> Similarities
+[13/11/2018 22:39:28] >> run[0]ep[100] res=173.91
+[13/11/2018 22:45:29] >> run[0]ep[200] res=400.0
+[13/11/2018 22:50:22] >> run[0]ep[300] res=232.46
+[13/11/2018 22:55:23] >> run[0]ep[400] res=101.2
+[13/11/2018 23:00:38] >> run[0]ep[500] res=284.7
